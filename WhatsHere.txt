@@ -1,0 +1,6 @@
+What’s here:
+
+Code for mods for recorded autonomous profiles.  All files go into Autonomouses folder, except for : OI.java (for base source along with Robot.java), and AutoLogger.java, which is a subsystem class.
+
+rmm, 3-23-18
+
